@@ -1,0 +1,8 @@
+{
+  "env": {
+    "TEST_VAR_TRUE": {
+      "description": "A test var that be true tho..",
+      "value": true
+    }
+  }
+}
