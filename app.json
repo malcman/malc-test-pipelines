@@ -1,4 +1,5 @@
 {
+  "addons": ["papertrail:choklad"],
   "env": {
     "GATSBY_COMMON_VAR": {
       "value": "common var"
